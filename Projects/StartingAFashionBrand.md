@@ -258,7 +258,7 @@ When you’ve written everything out, you can create your About us page and use 
 
 [![Burt's Bees hand salve and flowers](https://static.cdn.printful.com/v2/blog/wp-content/uploads/2022/03/burts-bees-and-flowers-on-a-table-1024x683.jpg)](https://static.cdn.printful.com/v2/blog/wp-content/uploads/2022/03/burts-bees-and-flowers-on-a-table.jpg)
 
-Burt’s Bees Hand Salve! Source: [Emily Gillingham](https://www.pexels.com/photo/vacation-love-hand-flowers-4415594/)
+
 
 Burt’s Bees uses [storytelling](https://www.burtsbees.co.uk/our-purpose/our-story.list) to convey their brand’s message to customers in a powerful way.
 
@@ -467,5 +467,3 @@ You can easily start a small clothing line from home on your computer. Ecommerce
 ### How to start a clothing line for free?
 
 You can create a clothing line using free graphic design software and use Printful’s Design Maker to create product listings showing your designs on your online store. You still have to pay for your website subscription, but you won’t need to pay for any of your clothing line products until you make a sale.
-
-**Read next:** _[How to Run a Successful Clothing Line in the 21st Century](https://www.printful.com/blog/design-your-own-clothing-line/)_
