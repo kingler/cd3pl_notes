@@ -7,8 +7,8 @@ The library is based on the Chakra UI which requires the following dependencies:
 - `@emotion/react` --peer & dev dependency
 - `@emotion/styled` --peer & dev dependency
 - `framer-motion` --peer & dev dependency
-as a dependencey.
-When creating a component it must be registered in Plasmic in order to use it in Plasmic Studio
+
+When creating a component it must be registered in Plasmic in order to use it in Plasmic Studio.
 
 Examples:
 Button Component
