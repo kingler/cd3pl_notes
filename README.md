@@ -4,10 +4,10 @@
 The library is based on the Chakra UI which requires the following dependencies: 
 - `@chakra-ui/react`
 - `@plasmicapp/host` --dev dependency
-- `"@chakra-ui/react": "^1.8.8",
-    `"@emotion/react": "^11",`
-    `"@emotion/styled"`: "^11",
-    "framer-motion": "^6",`
+- `@chakra-ui/react`
+- `@emotion/react`
+- `@emotion/styled`
+- `framer-motion`
 as a dependencey.
 When creating a component it must be registered in Plasmic in order to use it in Plasmic Studio
 
