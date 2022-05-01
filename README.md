@@ -1,3 +1,4 @@
 # cd3pl_notes
--first task
--second task
+Development notes
+
+Creating C
