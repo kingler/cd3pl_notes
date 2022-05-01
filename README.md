@@ -1,7 +1,7 @@
 # cd3pl_notes
 #### Development notes
 ##### Creating CD3PL's UI library
-The library is based on the Chakra UI which requires `@chakra-ui/react`
+The library is based on the Chakra UI which requires the following dependencies `@chakra-ui/react`
 as a dependencey.
 When creating a component it must be registered in Plasmic in order to use it in Plasmic Studio
 
