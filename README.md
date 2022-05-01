@@ -1,4 +1,7 @@
 # cd3pl_notes
 Development notes
 
-Creating C
+Creating CD3PL's UI library
+Using Chakra UI
+When creating a component it must be registe
+
