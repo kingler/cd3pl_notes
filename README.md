@@ -3,10 +3,10 @@
 ##### Creating CD3PL's UI library
 The library is based on the Chakra UI which requires the following dependencies: 
 - `@plasmicapp/host` --dev dependency
-- `@chakra-ui/react` --peer dependency
-- `@emotion/react` --peer dependency
-- `@emotion/styled` --peer dependency
-- `framer-motion` --peer dependency
+- `@chakra-ui/react` --peer dev dependency
+- `@emotion/react` --peer & dev dependency
+- `@emotion/styled` --peer & dev dependency
+- `framer-motion` --peer & dev dependency
 as a dependencey.
 When creating a component it must be registered in Plasmic in order to use it in Plasmic Studio
 
