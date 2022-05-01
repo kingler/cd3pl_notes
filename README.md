@@ -104,3 +104,4 @@ export function registerButton(
 }
 ```
 
+Setup the provider for styling 
