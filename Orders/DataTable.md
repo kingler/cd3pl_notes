@@ -1,4 +1,4 @@
-purchasedate 
+purchasedate |
 
 customername
 
