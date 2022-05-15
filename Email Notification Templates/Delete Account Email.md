@@ -1,6 +1,5 @@
-[
 
-![Club Debut](https://static.figma.com/uploads/c2698d9a70dc8fe5ec7bc50d0141f831bf2ab2df)
+![Club Debut](https://cd3pl.org)
 
 **You have successfully deleted team "ThruStudio"**
 
