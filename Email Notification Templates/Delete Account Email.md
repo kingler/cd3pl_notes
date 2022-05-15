@@ -2,7 +2,7 @@
 
 **You have successfully deleted your account "Basics Fashion"**
 
-You are receiving this email to confirm that your team has been deleted. This means that in **28 days** from now you’ll no longer have access to your team's files, projects, prototypes, and shared components. If you’d like to get access anytime before then, you can [restore your team here](https://clubdebut3pl.org/settings).   
+You are receiving this email to confirm that your team has been deleted. This means that in **28 days** from now you’ll no longer have access to your team's files, projects, prototypes, and shared components. If you’d like to get access anytime before then, you can [restore your team here](https://clubdebut3pl.org/basicsfashion/settings/restoreaccount).   
   
 After 28 days, your team will be permanently deleted and you will not be able to restore any of its data.   
   
