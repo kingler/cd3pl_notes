@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Deep Work"
+  "cssTheme": "Deep Work",
+  "translucency": true,
+  "baseFontSize": 18
 }
