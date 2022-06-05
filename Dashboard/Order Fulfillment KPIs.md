@@ -63,7 +63,7 @@ To determine the KPIs included in the above formula uses the following calculati
 
 **Formula:** Total # of orders ÷ Perfect order rate
 
-**What it means**: The [order picking accuracy](https://legacyscs.com/warehouse-kpis-to-measure/) KPI is important because it lets you know the percentage of orders that are picked for shipping accurately. If your order picking accuracy percentage goes down, then you may have problems with inventory, shipping time, returns, and of course, dissatisfied customers.
+**What it means**: The order picking accuracyKPI is important because it lets you know the percentage of orders that are picked for shipping accurately. If your order picking accuracy percentage goes down, then you may have problems with inventory, shipping time, returns, and of course, dissatisfied customers.
 
 ## Operations KPIs
 
@@ -75,7 +75,7 @@ This category of metrics is related to your warehouse operations and performance
 
 **Formula:** Percent of orders delivered on the 1st attempt ÷ Total orders
 
-**What it means:** The [order fill rate percentage](https://www.mbaskool.com/business-concepts/operations-logistics-supply-chain-terms/3433-order-fill-rate.html) is another in full KPI that should be tracking at a high number. If it isn’t close to 100%, you should investigate why, beginning with inventory management, supply-chain lead time, packaging process, and shipping carriers.
+**What it means:** The order fill rate percentage is another in full KPI that should be tracking at a high number. If it isn’t close to 100%, you should investigate why, beginning with inventory management, supply-chain lead time, packaging process, and shipping carriers.
 
 #### Line Item Fill Rate Percentage
 
