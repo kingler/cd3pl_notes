@@ -24,7 +24,7 @@ These KPIs are all related to how your order fulfillment process affects your cu
 
 **Formula:** Orders shipped on time or early ÷ Total # of orders shipped
 
-**What it means:** This KPI tells you how effective you are with getting shipments out on time. If your [on-time shipping](https://www.datapine.com/kpi-examples-and-templates/logistics#on-time-shipping) metric is too low, it means that orders are not being picked, packaged, and shipped in an acceptable amount of time, and you need to address the issue or risk customer dissatisfaction.
+**What it means:** This KPI tells you how effective you are with getting shipments out on time. If your on-time shipping metric is too low, it means that orders are not being picked, packaged, and shipped in an acceptable amount of time, and you need to address the issue or risk customer dissatisfaction.
 
 #### Order Cycle Time
 
@@ -55,7 +55,7 @@ To determine the KPIs included in the above formula uses the following calculati
 -   **Percent of orders shipped no damage** = Orders shipped with no damage versus Total orders
 -   **Percent of orders with correct documentation** = Orders with correct documentation versus Total orders
 
-**What it means:** The [perfect order percentage](https://www.sdcexec.com/warehousing/article/12193325/metric-of-the-month-perfect-order-performance) KPI can get pretty complicated, but it provides useful information. It tells you what percentage of orders are being processed accurately and on time. When you see this number decreasing, it’s time to take a look at your processes and who is doing the processing.
+**What it means:** The perfect order percentage KPI can get pretty complicated, but it provides useful information. It tells you what percentage of orders are being processed accurately and on time. When you see this number decreasing, it’s time to take a look at your processes and who is doing the processing.
 
 #### Order Picking Accuracy
 
