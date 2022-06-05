@@ -1,3 +1,4 @@
+# Order Fulfillment KPIs
 To understand how your business is performing, you have to know more than just how many products you’re selling.
 
 You need to have an effective method of measuring the key performance indicators (KPI) and analyzing the information to get the full picture of the success of your ecommerce store.
@@ -6,7 +7,7 @@ Along with every aspect of your business, there are KPIs you can’t afford to i
 
 These fulfillment KPIs are broken down into the following categories: customer, operations, and warehouse metrics.
 
-## Order Fulfillment KPIs to Track
+## What to Track
 
 Within each category, we will
 
@@ -103,7 +104,7 @@ This pair of KPIs measures the efficiency of your warehouse and can alert you to
 
 **Formula:** Time received inventory is put away – Time incoming inventory was received
 
-**What it means:** The [dock-to-stock](https://www.sdcexec.com/warehousing/news/12311448/metric-of-the-month-dock-to-stock-cycle-time-in-hours-for-supplier-deliveries) cycle begins when your warehouse receives delivery of goods from the supplier and ends when those goods are put away in the warehouse and recorded into the inventory management system. If the average length of time is too long, or continually increasing, receiving processes will need to be investigated and addressed.
+**What it means:** The dock-to-stock cycle begins when your warehouse receives delivery of goods from the supplier and ends when those goods are put away in the warehouse and recorded into the inventory management system. If the average length of time is too long, or continually increasing, receiving processes will need to be investigated and addressed.
 
 #### Inventory Accuracy
 
