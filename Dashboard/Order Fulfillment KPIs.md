@@ -4,7 +4,6 @@ You need to have an effective method of measuring the key performance indicators
 
 Along with every aspect of your business, there are KPIs you can’t afford to ignore. In this post, we’ll focus on the metrics that pertain to order fulfillment.
 
-
 These fulfillment KPIs are broken down into the following categories: customer, operations, and warehouse metrics.
 
 ## Order Fulfillment KPIs to Track
