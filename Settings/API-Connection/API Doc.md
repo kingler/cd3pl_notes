@@ -25,9 +25,79 @@ This is a hard process to do but it’s very important, you should keep your API
 ### Endpoints:
 
 This is the main component that your users will consume. It is important to define all your endpoints clearly, but we’ll discuss them in more detail in a moment.
-Create Order
 
+### Create Order
+```
+const data = {
+  payment_method: "bacs",
+  payment_method_title: "Direct Bank Transfer",
+  set_paid: true,
+  billing: {
+    first_name: "John",
+    last_name: "Doe",
+    address_1: "969 Market",
+    address_2: "",
+    city: "San Francisco",
+    state: "CA",
+    postcode: "94103",
+    country: "US",
+    email: "john.doe@example.com",
+    phone: "(555) 555-5555"
+  },
+  shipping: {
+    first_name: "John",
+    last_name: "Doe",
+    address_1: "969 Market",
+    address_2: "",
+    city: "San Francisco",
+    state: "CA",
+    postcode: "94103",
+    country: "US"
+  },
+  line_items: [
+    {
+      product_id: 93,
+      quantity: 2,
+      mi_inventories: [
+        {
+          inventory_id: 152,
+          qty: 1
+        },
+        {
+          inventory_id: 126,
+          qty: 1
+        }
+      ]
+    },
+    {
+      product_id: 22,
+      variation_id: 23,
+      quantity: 1,
+      mi_inventories: [
+        {
+          inventory_id: 112,
+          qty: 1
+        }        
+      ]
+    }
+  ],
+  shipping_lines: [
+    {
+      method_id: "flat_rate",
+      method_title: "Flat Rate",
+      total: 10
+    }
+  ]
+};
 
+WooCommerce.post("orders", data)
+  .then((response) => {
+    console.log(response.data);
+  })
+  .catch((error) => {
+    console.log(error.response.data);
+  });
+```
 ### Good User Interface:
 
 Your team should have a styling guide and a consistent structure to follow when building the documentation. It should provide a good user experience that helps the developers in their journey.
