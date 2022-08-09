@@ -6,7 +6,9 @@ Please don’t assume that people using your API are developers. Try to address 
 
 ### Authentication:
 
-This is how you will make the users connect with your API. You need to explain how to set it up and make the user obtain the [API key](https://rapidapi.com/blog/api-glossary/api-key/).
+In order to publish on behalf of a ClubDebut account, you will need an access token. An access token grants limited access to a user’s account. We offer two ways to acquire an access token: browser-based OAuth authentication, and self-issued access tokens.
+
+We recommend using self-issued access tokens. Browser-based authentication is supported **for existing integrations only**.
 
 CD_ShipVerse_API:   *kjfkej0klaflmfg89990(())m-gjyhdjlldien*
 
