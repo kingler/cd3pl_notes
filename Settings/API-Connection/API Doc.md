@@ -25,6 +25,8 @@ This is a hard process to do but it’s very important, you should keep your API
 ### Endpoints:
 
 This is the main component that your users will consume. It is important to define all your endpoints clearly, but we’ll discuss them in more detail in a moment.
+Create Order
+
 
 ### Good User Interface:
 
