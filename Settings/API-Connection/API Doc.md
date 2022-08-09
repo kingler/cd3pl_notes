@@ -98,13 +98,7 @@ WooCommerce.post("orders", data)
     console.log(error.response.data);
   });
 ```
-### Good User Interface:
 
-Your team should have a styling guide and a consistent structure to follow when building the documentation. It should provide a good user experience that helps the developers in their journey.
-
-### Images:
-
-Include images and screenshots that have a description for your API. Try to choose high-quality images that showcase your API in a good way.
 
 ### GitHub Link:
 
