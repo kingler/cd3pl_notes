@@ -2,7 +2,7 @@
 
 ### Target Your Audience:
 
-Fashion Brands.
+Please don’t assume that people using your API are developers. Try to address the newcomers who are just starting in the field as well as the professional developers who need to do their job and make decisions.
 
 ### Authentication:
 
