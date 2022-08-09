@@ -8,7 +8,7 @@ Please don’t assume that people using your API are developers. Try to address 
 
 This is how you will make the users connect with your API. You need to explain how to set it up and make the user obtain the [API key](https://rapidapi.com/blog/api-glossary/api-key/).
 
-Club
+ClubDebutShipVerse_API:*kjfkej0klaflmfg89990(())m-gjyhdjlldien*
 ### Try the API Tool:
 
 In your documentation, you can integrate a [small tool](https://rapidapi.com/blog/best-api-testing-tools/) for users to try out your API and see it in action. You can make requests and see the response immediately.
